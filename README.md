@@ -1,4 +1,4 @@
-# Android-screen-design
+# LoginScreen design
 Practicing native Android screen design with xml
 
 
