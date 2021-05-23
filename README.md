@@ -1,7 +1,7 @@
 # Android-screen-design
 Practicing native Android screen design
-![plot](./Área de Trabalho/imageLoginScreen.png
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![imageLoginScreen](https://user-images.githubusercontent.com/30296650/119277227-c8c99300-bbf4-11eb-9d57-697e3bd800c5.jpeg)
+
 
 
 
