@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LoginScreen1</string>
+    <string name="input_hint_email">Email</string>
+    <string name="password_input">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
 </resources>
